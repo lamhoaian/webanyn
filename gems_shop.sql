@@ -1,0 +1,3 @@
+-- Gem shop schema (auto-applied via includes/gems_lib.php on first visit)
+-- users.gems, users.active_chat_frame, users.active_avatar_frame
+-- Tables: shop_items, user_inventory, gem_mission_log
